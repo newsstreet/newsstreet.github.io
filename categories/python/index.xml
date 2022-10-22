@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Python on TechnoStreet | blog on technology</title>
-    <link>https://technostreet.github.io/categories/python/</link>
-    <description>Recent content in Python on TechnoStreet | blog on technology</description>
+    <title>Python on NewsStreet | News from several media houses</title>
+    <link>https://newsstreet.github.io/categories/python/</link>
+    <description>Recent content in Python on NewsStreet | News from several media houses</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Oct 2022 04:07:47 +0000</lastBuildDate><atom:link href="https://technostreet.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Oct 2022 04:07:47 +0000</lastBuildDate><atom:link href="https://newsstreet.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Updating content via forestry</title>
-      <link>https://technostreet.github.io/blog/post-9/</link>
+      <link>https://newsstreet.github.io/blog/post-9/</link>
       <pubDate>Wed, 19 Oct 2022 04:07:47 +0000</pubDate>
       
-      <guid>https://technostreet.github.io/blog/post-9/</guid>
+      <guid>https://newsstreet.github.io/blog/post-9/</guid>
       <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     
