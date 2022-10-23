@@ -5,7 +5,7 @@ description = "manual blog post"
 image = ""
 tags = ["php "]
 title = "This is new blog post"
-type = "featured"
+type = "post"
 
 +++
 This is manual blog post
