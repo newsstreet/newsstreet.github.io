@@ -26,6 +26,15 @@
     </item>
     
     <item>
+      <title>Testing YAML generated file</title>
+      <link>https://newsstreet.github.io/blog/testpost8/</link>
+      <pubDate>Sat, 22 Oct 2022 10:07:47 +0600</pubDate>
+      
+      <guid>https://newsstreet.github.io/blog/testpost8/</guid>
+      <description>It seems there is good progress towards news site. Description goes here It seems there is good progress towards news site.</description>
+    </item>
+    
+    <item>
       <title>apache2.service: Control process exited, code=exited, status=139/n/a</title>
       <link>https://newsstreet.github.io/blog/apache-broken-after-ubuntu-upgrade-22.04/</link>
       <pubDate>Fri, 21 Oct 2022 04:07:47 +0000</pubDate>
