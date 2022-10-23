@@ -8,3 +8,4 @@ title = "This is new blog post"
 type = "featured"
 
 +++
+This is manual blog post
