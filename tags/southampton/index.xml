@@ -1,28 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Southampton on NewsStreet | News from several media houses</title>
-    <link>https://newsstreet.github.io/tags/southampton/</link>
-    <description>Recent content in Southampton on NewsStreet | News from several media houses</description>
+    <title>Southampton on Liva | Personal blog template</title>
+    <link>https://demo.gethugothemes.com/tags/southampton/</link>
+    <description>Recent content in Southampton on Liva | Personal blog template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Oct 2022 13:03:35 +0000</lastBuildDate><atom:link href="https://newsstreet.github.io/tags/southampton/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Oct 2022 13:03:35 +0000</lastBuildDate><atom:link href="https://demo.gethugothemes.com/tags/southampton/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Southampton v Arsenal: Premier League – live</title>
-      <link>https://newsstreet.github.io/blog/southampton-v-arsenal-premier-league-live/</link>
+      <link>https://demo.gethugothemes.com/blog/southampton-v-arsenal-premier-league-live/</link>
       <pubDate>Sun, 23 Oct 2022 13:03:35 +0000</pubDate>
       
-      <guid>https://newsstreet.github.io/blog/southampton-v-arsenal-premier-league-live/</guid>
-      <description>Southampton v Arsenal: Premier League – live Match at St Mary’s kicks off at 2pm BSTGet in touch with Gregg via email or on TwitterThe teams are out at St Mary’s on what has ended up being a lovely day for football after the torrential showers earlier.</description>
-    </item>
-    
-    <item>
-      <title>Southampton v Arsenal: Premier League – live</title>
-      <link>https://newsstreet.github.io/blog/southampton-v-arsenal-premier-league-live/</link>
-      <pubDate>Sun, 23 Oct 2022 13:03:35 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/blog/southampton-v-arsenal-premier-league-live/</guid>
-      <description>Southampton v Arsenal: Premier League – live Match at St Mary’s kicks off at 2pm BSTGet in touch with Gregg via email or on TwitterThe teams are out at St Mary’s on what has ended up being a lovely day for football after the torrential showers earlier.</description>
+      <guid>https://demo.gethugothemes.com/blog/southampton-v-arsenal-premier-league-live/</guid>
+      <description>Southampton v Arsenal: Premier League – live </description>
     </item>
     
   </channel>
