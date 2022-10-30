@@ -6,13 +6,58 @@
     <description>Recent content in Tags on NewsStreet | News portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Oct 2022 07:39:32 +0000</lastBuildDate><atom:link href="https://newsstreet.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Oct 2022 10:16:08 +0000</lastBuildDate><atom:link href="https://newsstreet.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NE News,Assam News</title>
       <link>https://newsstreet.github.io/tags/ne-newsassam-news/</link>
-      <pubDate>Sun, 30 Oct 2022 07:39:32 +0000</pubDate>
+      <pubDate>Sun, 30 Oct 2022 10:16:08 +0000</pubDate>
       
       <guid>https://newsstreet.github.io/tags/ne-newsassam-news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NE News,Meghalaya News</title>
+      <link>https://newsstreet.github.io/tags/ne-newsmeghalaya-news/</link>
+      <pubDate>Sun, 30 Oct 2022 10:03:27 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/ne-newsmeghalaya-news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bqfree</title>
+      <link>https://newsstreet.github.io/tags/bqfree/</link>
+      <pubDate>Sun, 30 Oct 2022 10:00:57 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/bqfree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PTI</title>
+      <link>https://newsstreet.github.io/tags/pti/</link>
+      <pubDate>Sun, 30 Oct 2022 10:00:57 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/pti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Football</title>
+      <link>https://newsstreet.github.io/tags/football/</link>
+      <pubDate>Sun, 30 Oct 2022 09:42:04 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/football/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sports</title>
+      <link>https://newsstreet.github.io/tags/sports/</link>
+      <pubDate>Sun, 30 Oct 2022 09:42:04 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/sports/</guid>
       <description></description>
     </item>
     
@@ -512,15 +557,6 @@
     </item>
     
     <item>
-      <title>Sports</title>
-      <link>https://newsstreet.github.io/tags/sports/</link>
-      <pubDate>Sun, 30 Oct 2022 06:47:29 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/sports/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>2539Z@GR</title>
       <link>https://newsstreet.github.io/tags/2539zgr/</link>
       <pubDate>Sun, 30 Oct 2022 06:46:13 +0000</pubDate>
@@ -832,15 +868,6 @@
       <pubDate>Sun, 30 Oct 2022 03:07:01 +0000</pubDate>
       
       <guid>https://newsstreet.github.io/tags/cg-dpr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Football</title>
-      <link>https://newsstreet.github.io/tags/football/</link>
-      <pubDate>Sat, 29 Oct 2022 18:18:57 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/football/</guid>
       <description></description>
     </item>
     
@@ -2465,15 +2492,6 @@
     </item>
     
     <item>
-      <title>NE News,Meghalaya News</title>
-      <link>https://newsstreet.github.io/tags/ne-newsmeghalaya-news/</link>
-      <pubDate>Thu, 27 Oct 2022 12:27:31 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/ne-newsmeghalaya-news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>NE News,Arunachal News</title>
       <link>https://newsstreet.github.io/tags/ne-newsarunachal-news/</link>
       <pubDate>Thu, 27 Oct 2022 12:22:58 +0000</pubDate>
@@ -2515,15 +2533,6 @@
       <pubDate>Thu, 27 Oct 2022 12:09:10 +0000</pubDate>
       
       <guid>https://newsstreet.github.io/tags/malayalam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bqfree</title>
-      <link>https://newsstreet.github.io/tags/bqfree/</link>
-      <pubDate>Thu, 27 Oct 2022 12:07:00 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/bqfree/</guid>
       <description></description>
     </item>
     
@@ -4207,15 +4216,6 @@
       <pubDate>Tue, 25 Oct 2022 17:00:39 +0000</pubDate>
       
       <guid>https://newsstreet.github.io/tags/memphis-grizzlies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PTI</title>
-      <link>https://newsstreet.github.io/tags/pti/</link>
-      <pubDate>Tue, 25 Oct 2022 16:46:03 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/pti/</guid>
       <description></description>
     </item>
     
@@ -6169,6 +6169,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://newsstreet.github.io/tags/jsw-steel-ltd./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maruti Suzuki India Ltd.</title>
+      <link>https://newsstreet.github.io/tags/maruti-suzuki-india-ltd./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/maruti-suzuki-india-ltd./</guid>
       <description></description>
     </item>
     
