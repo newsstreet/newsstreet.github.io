@@ -1,12 +1,192 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on NewsStreet | News portal</title>
+    <title>Tags on NewsStreet</title>
     <link>https://newsstreet.github.io/tags/</link>
-    <description>Recent content in Tags on NewsStreet | News portal</description>
+    <description>Recent content in Tags on NewsStreet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Nov 2022 07:22:50 +0000</lastBuildDate><atom:link href="https://newsstreet.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Nov 2022 16:23:03 +0000</lastBuildDate><atom:link href="https://newsstreet.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Upcoming Devices</title>
+      <link>https://newsstreet.github.io/tags/upcoming-devices/</link>
+      <pubDate>Wed, 02 Nov 2022 16:23:03 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/upcoming-devices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>videos</title>
+      <link>https://newsstreet.github.io/tags/videos/</link>
+      <pubDate>Wed, 02 Nov 2022 16:23:03 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/videos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cricket</title>
+      <link>https://newsstreet.github.io/tags/cricket/</link>
+      <pubDate>Wed, 02 Nov 2022 16:18:57 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/cricket/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DLS method</title>
+      <link>https://newsstreet.github.io/tags/dls-method/</link>
+      <pubDate>Wed, 02 Nov 2022 16:18:57 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/dls-method/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Duckworth-Lewis-Stern method</title>
+      <link>https://newsstreet.github.io/tags/duckworth-lewis-stern-method/</link>
+      <pubDate>Wed, 02 Nov 2022 16:18:57 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/duckworth-lewis-stern-method/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concussion in sport</title>
+      <link>https://newsstreet.github.io/tags/concussion-in-sport/</link>
+      <pubDate>Wed, 02 Nov 2022 16:14:26 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/concussion-in-sport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rugby union</title>
+      <link>https://newsstreet.github.io/tags/rugby-union/</link>
+      <pubDate>Wed, 02 Nov 2022 16:14:26 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/rugby-union/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sport</title>
+      <link>https://newsstreet.github.io/tags/sport/</link>
+      <pubDate>Wed, 02 Nov 2022 16:14:26 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/sport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>World Rugby</title>
+      <link>https://newsstreet.github.io/tags/world-rugby/</link>
+      <pubDate>Wed, 02 Nov 2022 16:14:26 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/world-rugby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>author_name|Igor Bonifacic</title>
+      <link>https://newsstreet.github.io/tags/author_nameigor-bonifacic/</link>
+      <pubDate>Wed, 02 Nov 2022 16:13:17 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/author_nameigor-bonifacic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consumer Discretionary</title>
+      <link>https://newsstreet.github.io/tags/consumer-discretionary/</link>
+      <pubDate>Wed, 02 Nov 2022 16:13:17 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/consumer-discretionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language|en-US</title>
+      <link>https://newsstreet.github.io/tags/languageen-us/</link>
+      <pubDate>Wed, 02 Nov 2022 16:13:17 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/languageen-us/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>provider_name|Engadget</title>
+      <link>https://newsstreet.github.io/tags/provider_nameengadget/</link>
+      <pubDate>Wed, 02 Nov 2022 16:13:17 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/provider_nameengadget/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>region|US</title>
+      <link>https://newsstreet.github.io/tags/regionus/</link>
+      <pubDate>Wed, 02 Nov 2022 16:13:17 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/regionus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>site|engadget</title>
+      <link>https://newsstreet.github.io/tags/siteengadget/</link>
+      <pubDate>Wed, 02 Nov 2022 16:13:17 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/siteengadget/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business</title>
+      <link>https://newsstreet.github.io/tags/business/</link>
+      <pubDate>Wed, 02 Nov 2022 16:10:22 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Glencore</title>
+      <link>https://newsstreet.github.io/tags/glencore/</link>
+      <pubDate>Wed, 02 Nov 2022 16:10:22 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/glencore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LAW</title>
+      <link>https://newsstreet.github.io/tags/law/</link>
+      <pubDate>Wed, 02 Nov 2022 16:10:22 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/law/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serious Fraud Office</title>
+      <link>https://newsstreet.github.io/tags/serious-fraud-office/</link>
+      <pubDate>Wed, 02 Nov 2022 16:10:22 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/serious-fraud-office/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UK news</title>
+      <link>https://newsstreet.github.io/tags/uk-news/</link>
+      <pubDate>Wed, 02 Nov 2022 16:10:22 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/uk-news/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Tenders</title>
       <link>https://newsstreet.github.io/tags/tenders/</link>
@@ -31,15 +211,6 @@
       <pubDate>Wed, 02 Nov 2022 07:18:15 +0000</pubDate>
       
       <guid>https://newsstreet.github.io/tags/jobs-in-rest-of-nejobsjobs-in-meghalayajobs-in-shillong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cricket</title>
-      <link>https://newsstreet.github.io/tags/cricket/</link>
-      <pubDate>Wed, 02 Nov 2022 07:14:00 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/cricket/</guid>
       <description></description>
     </item>
     
@@ -188,15 +359,6 @@
     </item>
     
     <item>
-      <title>Business</title>
-      <link>https://newsstreet.github.io/tags/business/</link>
-      <pubDate>Wed, 02 Nov 2022 07:03:28 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/business/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Economics</title>
       <link>https://newsstreet.github.io/tags/economics/</link>
       <pubDate>Wed, 02 Nov 2022 07:03:28 +0000</pubDate>
@@ -260,42 +422,6 @@
     </item>
     
     <item>
-      <title>language|en-US</title>
-      <link>https://newsstreet.github.io/tags/languageen-us/</link>
-      <pubDate>Wed, 02 Nov 2022 06:55:18 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/languageen-us/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>provider_name|Engadget</title>
-      <link>https://newsstreet.github.io/tags/provider_nameengadget/</link>
-      <pubDate>Wed, 02 Nov 2022 06:55:18 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/provider_nameengadget/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>region|US</title>
-      <link>https://newsstreet.github.io/tags/regionus/</link>
-      <pubDate>Wed, 02 Nov 2022 06:55:18 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/regionus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>site|engadget</title>
-      <link>https://newsstreet.github.io/tags/siteengadget/</link>
-      <pubDate>Wed, 02 Nov 2022 06:55:18 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/siteengadget/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Technology &amp; Electronics</title>
       <link>https://newsstreet.github.io/tags/technology-electronics/</link>
       <pubDate>Wed, 02 Nov 2022 06:55:18 +0000</pubDate>
@@ -332,15 +458,6 @@
     </item>
     
     <item>
-      <title>Consumer Discretionary</title>
-      <link>https://newsstreet.github.io/tags/consumer-discretionary/</link>
-      <pubDate>Wed, 02 Nov 2022 04:00:31 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/consumer-discretionary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sports</title>
       <link>https://newsstreet.github.io/tags/sports/</link>
       <pubDate>Wed, 02 Nov 2022 03:54:31 +0000</pubDate>
@@ -373,15 +490,6 @@
       <pubDate>Tue, 01 Nov 2022 17:38:08 +0000</pubDate>
       
       <guid>https://newsstreet.github.io/tags/pti/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>author_name|Igor Bonifacic</title>
-      <link>https://newsstreet.github.io/tags/author_nameigor-bonifacic/</link>
-      <pubDate>Tue, 01 Nov 2022 17:30:36 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/author_nameigor-bonifacic/</guid>
       <description></description>
     </item>
     
@@ -454,15 +562,6 @@
       <pubDate>Tue, 01 Nov 2022 17:08:41 +0000</pubDate>
       
       <guid>https://newsstreet.github.io/tags/news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>videos</title>
-      <link>https://newsstreet.github.io/tags/videos/</link>
-      <pubDate>Tue, 01 Nov 2022 17:08:41 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/videos/</guid>
       <description></description>
     </item>
     
@@ -553,15 +652,6 @@
       <pubDate>Tue, 01 Nov 2022 12:34:02 +0000</pubDate>
       
       <guid>https://newsstreet.github.io/tags/racing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sport</title>
-      <link>https://newsstreet.github.io/tags/sport/</link>
-      <pubDate>Tue, 01 Nov 2022 12:34:02 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/sport/</guid>
       <description></description>
     </item>
     
@@ -2299,15 +2389,6 @@
       <pubDate>Sat, 29 Oct 2022 18:00:29 +0000</pubDate>
       
       <guid>https://newsstreet.github.io/tags/international-settlements/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LAW</title>
-      <link>https://newsstreet.github.io/tags/law/</link>
-      <pubDate>Sat, 29 Oct 2022 18:00:29 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/law/</guid>
       <description></description>
     </item>
     
@@ -6223,15 +6304,6 @@
       <pubDate>Mon, 24 Oct 2022 11:00:08 +0000</pubDate>
       
       <guid>https://newsstreet.github.io/tags/paolo-banchero/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Concussion in sport</title>
-      <link>https://newsstreet.github.io/tags/concussion-in-sport/</link>
-      <pubDate>Mon, 24 Oct 2022 11:00:04 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/concussion-in-sport/</guid>
       <description></description>
     </item>
     

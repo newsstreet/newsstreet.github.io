@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>provider_name|Engadget on NewsStreet | News portal</title>
+    <title>provider_name|Engadget on NewsStreet</title>
     <link>https://newsstreet.github.io/tags/provider_nameengadget/</link>
-    <description>Recent content in provider_name|Engadget on NewsStreet | News portal</description>
+    <description>Recent content in provider_name|Engadget on NewsStreet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Nov 2022 06:55:18 +0000</lastBuildDate><atom:link href="https://newsstreet.github.io/tags/provider_nameengadget/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Nov 2022 16:13:17 +0000</lastBuildDate><atom:link href="https://newsstreet.github.io/tags/provider_nameengadget/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Etsy adds image-based search, but only on iOS for now</title>
+      <link>https://newsstreet.github.io/news/etsy-adds-image-based-search-but-only-on-ios-for-now/</link>
+      <pubDate>Wed, 02 Nov 2022 16:13:17 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/news/etsy-adds-image-based-search-but-only-on-ios-for-now/</guid>
+      <description>Etsy adds image-based search, but only on iOS for now Etsy has begun testing visual search.</description>
+    </item>
+    
     <item>
       <title>T-Mobile will start charging a $35 fee on all new activations and upgrades</title>
       <link>https://newsstreet.github.io/news/t-mobile-will-start-charging-a-35-fee-on-all-new-activations-and-upgrades/</link>

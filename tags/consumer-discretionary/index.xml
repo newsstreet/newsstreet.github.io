@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Consumer Discretionary on NewsStreet | News portal</title>
+    <title>Consumer Discretionary on NewsStreet</title>
     <link>https://newsstreet.github.io/tags/consumer-discretionary/</link>
-    <description>Recent content in Consumer Discretionary on NewsStreet | News portal</description>
+    <description>Recent content in Consumer Discretionary on NewsStreet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Nov 2022 04:00:31 +0000</lastBuildDate><atom:link href="https://newsstreet.github.io/tags/consumer-discretionary/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Nov 2022 16:13:17 +0000</lastBuildDate><atom:link href="https://newsstreet.github.io/tags/consumer-discretionary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Etsy adds image-based search, but only on iOS for now</title>
+      <link>https://newsstreet.github.io/news/etsy-adds-image-based-search-but-only-on-ios-for-now/</link>
+      <pubDate>Wed, 02 Nov 2022 16:13:17 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/news/etsy-adds-image-based-search-but-only-on-ios-for-now/</guid>
+      <description>Etsy adds image-based search, but only on iOS for now Etsy has begun testing visual search.</description>
+    </item>
+    
     <item>
       <title>Canon R6-II hands-on: Faster, more resolution and reduced heating issues</title>
       <link>https://newsstreet.github.io/news/canon-r6-ii-hands-on-faster-more-resolution-and-reduced-heating-issues/</link>

@@ -1,12 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>health on NewsStreet | News portal</title>
+    <title>health on NewsStreet</title>
     <link>https://newsstreet.github.io/categories/health/</link>
-    <description>Recent content in health on NewsStreet | News portal</description>
+    <description>Recent content in health on NewsStreet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Nov 2022 07:14:58 +0000</lastBuildDate><atom:link href="https://newsstreet.github.io/categories/health/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Nov 2022 16:12:41 +0000</lastBuildDate><atom:link href="https://newsstreet.github.io/categories/health/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personalized approach to kidney disease screening for T1D patients could enable earlier disease detection</title>
+      <link>https://newsstreet.github.io/news/personalized-approach-to-kidney-disease-screening-for-t1d-patients-could-en/</link>
+      <pubDate>Wed, 02 Nov 2022 16:12:41 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/news/personalized-approach-to-kidney-disease-screening-for-t1d-patients-could-en/</guid>
+      <description>Personalized approach to kidney disease screening for T1D patients could enable earlier disease detection Taking a personalized approach to kidney disease screening for people with type 1 diabetes (T1D) may reduce the time that chronic kidney disease goes undetected, according to a new analysis performed by the Epidemiology of Diabetes Interventions and Complications study group, which is funded by the National Institute of Diabetes and Digestive and Kidney Diseases, part of the National Institutes of Health.</description>
+    </item>
+    
+    <item>
+      <title>2 takeaways from our daily meeting: Stocks await Fed decision, Club earnings recap</title>
+      <link>https://newsstreet.github.io/news/2-takeaways-from-our-daily-meeting-stocks-await-fed-decision-club-earning/</link>
+      <pubDate>Wed, 02 Nov 2022 16:09:39 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/news/2-takeaways-from-our-daily-meeting-stocks-await-fed-decision-club-earning/</guid>
+      <description>2 takeaways from our daily meeting: Stocks await Fed decision, Club earnings recap The Investing Club holds its &#34;</description>
+    </item>
+    
     <item>
       <title>An optimal approach to treat femoropopliteal lesions</title>
       <link>https://newsstreet.github.io/news/an-optimal-approach-to-treat-femoropopliteal-lesions/</link>
