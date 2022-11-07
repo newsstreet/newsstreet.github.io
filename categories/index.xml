@@ -6,49 +6,67 @@
     <description>Recent content in Categories on NewsStreet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Nov 2022 12:11:42 +0000</lastBuildDate><atom:link href="https://newsstreet.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>entertainment</title>
-      <link>https://newsstreet.github.io/categories/entertainment/</link>
-      <pubDate>Sun, 06 Nov 2022 12:11:42 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/categories/entertainment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sports</title>
-      <link>https://newsstreet.github.io/categories/sports/</link>
-      <pubDate>Sun, 06 Nov 2022 12:08:00 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/categories/sports/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Mon, 07 Nov 2022 05:12:56 +0000</lastBuildDate><atom:link href="https://newsstreet.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>top</title>
       <link>https://newsstreet.github.io/categories/top/</link>
-      <pubDate>Sun, 06 Nov 2022 12:05:46 +0000</pubDate>
+      <pubDate>Mon, 07 Nov 2022 05:12:56 +0000</pubDate>
       
       <guid>https://newsstreet.github.io/categories/top/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>technology</title>
-      <link>https://newsstreet.github.io/categories/technology/</link>
-      <pubDate>Sun, 06 Nov 2022 12:03:00 +0000</pubDate>
+      <title>sports</title>
+      <link>https://newsstreet.github.io/categories/sports/</link>
+      <pubDate>Mon, 07 Nov 2022 05:12:20 +0000</pubDate>
       
-      <guid>https://newsstreet.github.io/categories/technology/</guid>
+      <guid>https://newsstreet.github.io/categories/sports/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>entertainment</title>
+      <link>https://newsstreet.github.io/categories/entertainment/</link>
+      <pubDate>Mon, 07 Nov 2022 05:02:46 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/categories/entertainment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>health</title>
+      <link>https://newsstreet.github.io/categories/health/</link>
+      <pubDate>Mon, 07 Nov 2022 05:00:55 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/categories/health/</guid>
       <description></description>
     </item>
     
     <item>
       <title>business</title>
       <link>https://newsstreet.github.io/categories/business/</link>
-      <pubDate>Sun, 06 Nov 2022 04:48:00 +0000</pubDate>
+      <pubDate>Mon, 07 Nov 2022 05:00:40 +0000</pubDate>
       
       <guid>https://newsstreet.github.io/categories/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>science</title>
+      <link>https://newsstreet.github.io/categories/science/</link>
+      <pubDate>Mon, 07 Nov 2022 04:46:00 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/categories/science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>technology</title>
+      <link>https://newsstreet.github.io/categories/technology/</link>
+      <pubDate>Mon, 07 Nov 2022 04:45:37 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/categories/technology/</guid>
       <description></description>
     </item>
     
@@ -62,29 +80,11 @@
     </item>
     
     <item>
-      <title>health</title>
-      <link>https://newsstreet.github.io/categories/health/</link>
-      <pubDate>Sun, 06 Nov 2022 04:44:00 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/categories/health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>world</title>
       <link>https://newsstreet.github.io/categories/world/</link>
       <pubDate>Thu, 03 Nov 2022 13:04:15 +0000</pubDate>
       
       <guid>https://newsstreet.github.io/categories/world/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>science</title>
-      <link>https://newsstreet.github.io/categories/science/</link>
-      <pubDate>Thu, 03 Nov 2022 12:55:37 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/categories/science/</guid>
       <description></description>
     </item>
     
