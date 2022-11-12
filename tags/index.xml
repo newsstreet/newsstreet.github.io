@@ -6,31 +6,337 @@
     <description>Recent content in Tags on NewsStreet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Nov 2022 07:33:51 +0000</lastBuildDate><atom:link href="https://newsstreet.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Nov 2022 06:38:40 +0000</lastBuildDate><atom:link href="https://newsstreet.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>latest</title>
-      <link>https://newsstreet.github.io/tags/latest/</link>
-      <pubDate>Fri, 11 Nov 2022 07:33:51 +0000</pubDate>
+      <title>movies</title>
+      <link>https://newsstreet.github.io/tags/movies/</link>
+      <pubDate>Sat, 12 Nov 2022 06:38:40 +0000</pubDate>
       
-      <guid>https://newsstreet.github.io/tags/latest/</guid>
+      <guid>https://newsstreet.github.io/tags/movies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sports</title>
+      <link>https://newsstreet.github.io/tags/sports/</link>
+      <pubDate>Sat, 12 Nov 2022 06:38:33 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/sports/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sport</title>
+      <link>https://newsstreet.github.io/tags/sport/</link>
+      <pubDate>Sat, 12 Nov 2022 06:36:28 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/sport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>India News</title>
+      <link>https://newsstreet.github.io/tags/india-news/</link>
+      <pubDate>Sat, 12 Nov 2022 06:36:22 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/india-news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>maharashtra news</title>
+      <link>https://newsstreet.github.io/tags/maharashtra-news/</link>
+      <pubDate>Sat, 12 Nov 2022 06:36:22 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/maharashtra-news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>school bus accident</title>
+      <link>https://newsstreet.github.io/tags/school-bus-accident/</link>
+      <pubDate>Sat, 12 Nov 2022 06:36:22 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/school-bus-accident/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>school bus falls in gorge</title>
+      <link>https://newsstreet.github.io/tags/school-bus-falls-in-gorge/</link>
+      <pubDate>Sat, 12 Nov 2022 06:36:22 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/school-bus-falls-in-gorge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business</title>
+      <link>https://newsstreet.github.io/tags/business/</link>
+      <pubDate>Sat, 12 Nov 2022 06:35:36 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>खेल</title>
+      <link>https://newsstreet.github.io/tags/%E0%A4%96%E0%A5%87%E0%A4%B2/</link>
+      <pubDate>Sat, 12 Nov 2022 06:35:31 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/%E0%A4%96%E0%A5%87%E0%A4%B2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>देश</title>
+      <link>https://newsstreet.github.io/tags/%E0%A4%A6%E0%A5%87%E0%A4%B6/</link>
+      <pubDate>Sat, 12 Nov 2022 06:34:38 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/%E0%A4%A6%E0%A5%87%E0%A4%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>राज्य,हिमाचल प्रदेश</title>
+      <link>https://newsstreet.github.io/tags/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%B9%E0%A4%BF%E0%A4%AE%E0%A4%BE%E0%A4%9A%E0%A4%B2-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A6%E0%A5%87%E0%A4%B6/</link>
+      <pubDate>Sat, 12 Nov 2022 06:34:27 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%B9%E0%A4%BF%E0%A4%AE%E0%A4%BE%E0%A4%9A%E0%A4%B2-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A6%E0%A5%87%E0%A4%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>उत्तर प्रदेश</title>
+      <link>https://newsstreet.github.io/tags/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%B0-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A6%E0%A5%87%E0%A4%B6/</link>
+      <pubDate>Sat, 12 Nov 2022 06:33:52 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%B0-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A6%E0%A5%87%E0%A4%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>National</title>
+      <link>https://newsstreet.github.io/tags/national/</link>
+      <pubDate>Sat, 12 Nov 2022 06:33:34 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/national/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cricket</title>
+      <link>https://newsstreet.github.io/tags/cricket/</link>
+      <pubDate>Sat, 12 Nov 2022 06:33:17 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/cricket/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>buzz</title>
+      <link>https://newsstreet.github.io/tags/buzz/</link>
+      <pubDate>Sat, 12 Nov 2022 06:33:01 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/buzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entertainment</title>
+      <link>https://newsstreet.github.io/tags/entertainment/</link>
+      <pubDate>Sat, 12 Nov 2022 06:32:50 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/entertainment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>बिहार</title>
+      <link>https://newsstreet.github.io/tags/%E0%A4%AC%E0%A4%BF%E0%A4%B9%E0%A4%BE%E0%A4%B0/</link>
+      <pubDate>Sat, 12 Nov 2022 06:32:10 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/%E0%A4%AC%E0%A4%BF%E0%A4%B9%E0%A4%BE%E0%A4%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Delhi Ncr</title>
+      <link>https://newsstreet.github.io/tags/delhi-ncr/</link>
+      <pubDate>Sat, 12 Nov 2022 06:30:45 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/delhi-ncr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State</title>
+      <link>https://newsstreet.github.io/tags/state/</link>
+      <pubDate>Sat, 12 Nov 2022 06:30:45 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/state/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Punjab</title>
+      <link>https://newsstreet.github.io/tags/punjab/</link>
+      <pubDate>Sat, 12 Nov 2022 06:30:33 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/punjab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cambodia</title>
+      <link>https://newsstreet.github.io/tags/cambodia/</link>
+      <pubDate>Sat, 12 Nov 2022 06:30:26 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/cambodia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>India</title>
       <link>https://newsstreet.github.io/tags/india/</link>
-      <pubDate>Fri, 11 Nov 2022 07:33:27 +0000</pubDate>
+      <pubDate>Sat, 12 Nov 2022 06:30:26 +0000</pubDate>
       
       <guid>https://newsstreet.github.io/tags/india/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Jagdeep Dhankhar</title>
+      <link>https://newsstreet.github.io/tags/jagdeep-dhankhar/</link>
+      <pubDate>Sat, 12 Nov 2022 06:30:26 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/jagdeep-dhankhar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://newsstreet.github.io/tags/news/</link>
+      <pubDate>Sat, 12 Nov 2022 06:30:26 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>World</title>
       <link>https://newsstreet.github.io/tags/world/</link>
-      <pubDate>Fri, 11 Nov 2022 07:32:19 +0000</pubDate>
+      <pubDate>Sat, 12 Nov 2022 06:30:26 +0000</pubDate>
       
       <guid>https://newsstreet.github.io/tags/world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Politics</title>
+      <link>https://newsstreet.github.io/tags/politics/</link>
+      <pubDate>Sat, 12 Nov 2022 06:30:21 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/politics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fit</title>
+      <link>https://newsstreet.github.io/tags/fit/</link>
+      <pubDate>Sat, 12 Nov 2022 06:30:00 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/fit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pop Buzz</title>
+      <link>https://newsstreet.github.io/tags/pop-buzz/</link>
+      <pubDate>Sat, 12 Nov 2022 06:30:00 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/pop-buzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rashmika mandanna</title>
+      <link>https://newsstreet.github.io/tags/rashmika-mandanna/</link>
+      <pubDate>Sat, 12 Nov 2022 06:30:00 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/rashmika-mandanna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rashmika mandanna bollywood debut</title>
+      <link>https://newsstreet.github.io/tags/rashmika-mandanna-bollywood-debut/</link>
+      <pubDate>Sat, 12 Nov 2022 06:30:00 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/rashmika-mandanna-bollywood-debut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rashmika mandanna goodbye</title>
+      <link>https://newsstreet.github.io/tags/rashmika-mandanna-goodbye/</link>
+      <pubDate>Sat, 12 Nov 2022 06:30:00 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/rashmika-mandanna-goodbye/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science and Tech</title>
+      <link>https://newsstreet.github.io/tags/science-and-tech/</link>
+      <pubDate>Sat, 12 Nov 2022 06:30:00 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/science-and-tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why is Rashmika Mandanna famous</title>
+      <link>https://newsstreet.github.io/tags/why-is-rashmika-mandanna-famous/</link>
+      <pubDate>Sat, 12 Nov 2022 06:30:00 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/why-is-rashmika-mandanna-famous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bollywood</title>
+      <link>https://newsstreet.github.io/tags/bollywood/</link>
+      <pubDate>Sat, 12 Nov 2022 06:29:56 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/bollywood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>राज्य,केरल</title>
+      <link>https://newsstreet.github.io/tags/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%87%E0%A4%B0%E0%A4%B2/</link>
+      <pubDate>Sat, 12 Nov 2022 06:29:37 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%87%E0%A4%B0%E0%A4%B2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cricket News</title>
+      <link>https://newsstreet.github.io/tags/cricket-news/</link>
+      <pubDate>Sat, 12 Nov 2022 06:29:36 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/cricket-news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>latest</title>
+      <link>https://newsstreet.github.io/tags/latest/</link>
+      <pubDate>Fri, 11 Nov 2022 07:33:51 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/latest/</guid>
       <description></description>
     </item>
     
@@ -67,15 +373,6 @@
       <pubDate>Fri, 11 Nov 2022 07:31:42 +0000</pubDate>
       
       <guid>https://newsstreet.github.io/tags/hapur/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>News</title>
-      <link>https://newsstreet.github.io/tags/news/</link>
-      <pubDate>Fri, 11 Nov 2022 07:31:42 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/news/</guid>
       <description></description>
     </item>
     
@@ -152,42 +449,6 @@
     </item>
     
     <item>
-      <title>Fashion</title>
-      <link>https://newsstreet.github.io/tags/fashion/</link>
-      <pubDate>Fri, 11 Nov 2022 07:30:53 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/fashion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LIFESTYLE</title>
-      <link>https://newsstreet.github.io/tags/lifestyle/</link>
-      <pubDate>Fri, 11 Nov 2022 07:30:53 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/lifestyle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lifestyle Photos</title>
-      <link>https://newsstreet.github.io/tags/lifestyle-photos/</link>
-      <pubDate>Fri, 11 Nov 2022 07:30:53 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/lifestyle-photos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Photo Gallery</title>
-      <link>https://newsstreet.github.io/tags/photo-gallery/</link>
-      <pubDate>Fri, 11 Nov 2022 07:30:53 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/photo-gallery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>छत्तीसगढ़,Top News,राज्य</title>
       <link>https://newsstreet.github.io/tags/%E0%A4%9B%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A5%80%E0%A4%B8%E0%A4%97%E0%A5%9Dtop-news%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF/</link>
       <pubDate>Fri, 11 Nov 2022 07:30:49 +0000</pubDate>
@@ -206,20 +467,146 @@
     </item>
     
     <item>
-      <title>व्यापार</title>
-      <link>https://newsstreet.github.io/tags/%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AA%E0%A4%BE%E0%A4%B0/</link>
-      <pubDate>Fri, 11 Nov 2022 07:30:23 +0000</pubDate>
+      <title>Press release</title>
+      <link>https://newsstreet.github.io/tags/press-release/</link>
+      <pubDate>Fri, 11 Nov 2022 07:30:15 +0000</pubDate>
       
-      <guid>https://newsstreet.github.io/tags/%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AA%E0%A4%BE%E0%A4%B0/</guid>
+      <guid>https://newsstreet.github.io/tags/press-release/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Science and Tech</title>
-      <link>https://newsstreet.github.io/tags/science-and-tech/</link>
-      <pubDate>Thu, 10 Nov 2022 07:30:00 +0000</pubDate>
+      <title>The Stand</title>
+      <link>https://newsstreet.github.io/tags/the-stand/</link>
+      <pubDate>Fri, 11 Nov 2022 07:30:00 +0000</pubDate>
       
-      <guid>https://newsstreet.github.io/tags/science-and-tech/</guid>
+      <guid>https://newsstreet.github.io/tags/the-stand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Stand Season 2 Release Date</title>
+      <link>https://newsstreet.github.io/tags/the-stand-season-2-release-date/</link>
+      <pubDate>Fri, 11 Nov 2022 07:30:00 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/the-stand-season-2-release-date/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TV Shows</title>
+      <link>https://newsstreet.github.io/tags/tv-shows/</link>
+      <pubDate>Fri, 11 Nov 2022 07:30:00 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/tv-shows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>विश्व</title>
+      <link>https://newsstreet.github.io/tags/%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%B5/</link>
+      <pubDate>Fri, 11 Nov 2022 07:29:58 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%B5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge</title>
+      <link>https://newsstreet.github.io/tags/knowledge/</link>
+      <pubDate>Fri, 11 Nov 2022 07:29:40 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/knowledge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge Photos</title>
+      <link>https://newsstreet.github.io/tags/knowledge-photos/</link>
+      <pubDate>Fri, 11 Nov 2022 07:29:40 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/knowledge-photos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>प्रौद्योगिकी</title>
+      <link>https://newsstreet.github.io/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8C%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%BF%E0%A4%95%E0%A5%80/</link>
+      <pubDate>Fri, 11 Nov 2022 07:29:16 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8C%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%BF%E0%A4%95%E0%A5%80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19,विश्व</title>
+      <link>https://newsstreet.github.io/tags/covid-19%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%B5/</link>
+      <pubDate>Fri, 11 Nov 2022 07:29:14 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/covid-19%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%B5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topnews</title>
+      <link>https://newsstreet.github.io/tags/topnews/</link>
+      <pubDate>Fri, 11 Nov 2022 07:29:01 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/topnews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drishti IAS</title>
+      <link>https://newsstreet.github.io/tags/drishti-ias/</link>
+      <pubDate>Fri, 11 Nov 2022 07:28:38 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/drishti-ias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trending</title>
+      <link>https://newsstreet.github.io/tags/trending/</link>
+      <pubDate>Fri, 11 Nov 2022 07:28:38 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/trending/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Viral Video</title>
+      <link>https://newsstreet.github.io/tags/viral-video/</link>
+      <pubDate>Fri, 11 Nov 2022 07:28:38 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/viral-video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gadget</title>
+      <link>https://newsstreet.github.io/tags/gadget/</link>
+      <pubDate>Fri, 11 Nov 2022 07:28:22 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/gadget/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intel</title>
+      <link>https://newsstreet.github.io/tags/intel/</link>
+      <pubDate>Fri, 11 Nov 2022 07:28:22 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/intel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>भारत</title>
+      <link>https://newsstreet.github.io/tags/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4/</link>
+      <pubDate>Fri, 11 Nov 2022 07:28:16 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4/</guid>
       <description></description>
     </item>
     
@@ -269,24 +656,6 @@
     </item>
     
     <item>
-      <title>राज्य,तेलंगाना</title>
-      <link>https://newsstreet.github.io/tags/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%A4%E0%A5%87%E0%A4%B2%E0%A4%82%E0%A4%97%E0%A4%BE%E0%A4%A8%E0%A4%BE/</link>
-      <pubDate>Thu, 10 Nov 2022 07:27:47 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%A4%E0%A5%87%E0%A4%B2%E0%A4%82%E0%A4%97%E0%A4%BE%E0%A4%A8%E0%A4%BE/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>राज्य,झारखंड</title>
-      <link>https://newsstreet.github.io/tags/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%9D%E0%A4%BE%E0%A4%B0%E0%A4%96%E0%A4%82%E0%A4%A1/</link>
-      <pubDate>Thu, 10 Nov 2022 07:27:39 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%9D%E0%A4%BE%E0%A4%B0%E0%A4%96%E0%A4%82%E0%A4%A1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Hot News</title>
       <link>https://newsstreet.github.io/tags/hot-news/</link>
       <pubDate>Thu, 10 Nov 2022 07:27:08 +0000</pubDate>
@@ -296,47 +665,11 @@
     </item>
     
     <item>
-      <title>Cricket</title>
-      <link>https://newsstreet.github.io/tags/cricket/</link>
-      <pubDate>Thu, 10 Nov 2022 07:26:34 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/cricket/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>National</title>
-      <link>https://newsstreet.github.io/tags/national/</link>
-      <pubDate>Thu, 10 Nov 2022 07:26:33 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/national/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>राज्य,केरल</title>
-      <link>https://newsstreet.github.io/tags/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%87%E0%A4%B0%E0%A4%B2/</link>
-      <pubDate>Thu, 10 Nov 2022 07:26:26 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%87%E0%A4%B0%E0%A4%B2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>राज्य,तमिलनाडू</title>
       <link>https://newsstreet.github.io/tags/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%A4%E0%A4%AE%E0%A4%BF%E0%A4%B2%E0%A4%A8%E0%A4%BE%E0%A4%A1%E0%A5%82/</link>
       <pubDate>Thu, 10 Nov 2022 07:25:57 +0000</pubDate>
       
       <guid>https://newsstreet.github.io/tags/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%A4%E0%A4%AE%E0%A4%BF%E0%A4%B2%E0%A4%A8%E0%A4%BE%E0%A4%A1%E0%A5%82/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>movies</title>
-      <link>https://newsstreet.github.io/tags/movies/</link>
-      <pubDate>Thu, 10 Nov 2022 07:24:48 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/movies/</guid>
       <description></description>
     </item>
     
@@ -382,15 +715,6 @@
       <pubDate>Wed, 09 Nov 2022 07:18:31 +0000</pubDate>
       
       <guid>https://newsstreet.github.io/tags/jobs-in-rest-of-indiajobs-in-rest-of-nejobs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sports</title>
-      <link>https://newsstreet.github.io/tags/sports/</link>
-      <pubDate>Wed, 09 Nov 2022 07:12:59 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/sports/</guid>
       <description></description>
     </item>
     
@@ -454,15 +778,6 @@
       <pubDate>Wed, 09 Nov 2022 07:05:35 +0000</pubDate>
       
       <guid>https://newsstreet.github.io/tags/science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Entertainment</title>
-      <link>https://newsstreet.github.io/tags/entertainment/</link>
-      <pubDate>Wed, 09 Nov 2022 07:03:59 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/entertainment/</guid>
       <description></description>
     </item>
     
@@ -1088,20 +1403,20 @@
     </item>
     
     <item>
-      <title>Politics</title>
-      <link>https://newsstreet.github.io/tags/politics/</link>
-      <pubDate>Mon, 07 Nov 2022 16:30:03 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/politics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Jobs in Rest of NE,Jobs,Jobs in Meghalaya,Jobs in Shillong</title>
       <link>https://newsstreet.github.io/tags/jobs-in-rest-of-nejobsjobs-in-meghalayajobs-in-shillong/</link>
       <pubDate>Mon, 07 Nov 2022 07:24:12 +0000</pubDate>
       
       <guid>https://newsstreet.github.io/tags/jobs-in-rest-of-nejobsjobs-in-meghalayajobs-in-shillong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>राज्य,झारखंड</title>
+      <link>https://newsstreet.github.io/tags/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%9D%E0%A4%BE%E0%A4%B0%E0%A4%96%E0%A4%82%E0%A4%A1/</link>
+      <pubDate>Mon, 07 Nov 2022 07:16:22 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%9D%E0%A4%BE%E0%A4%B0%E0%A4%96%E0%A4%82%E0%A4%A1/</guid>
       <description></description>
     </item>
     
@@ -1124,11 +1439,11 @@
     </item>
     
     <item>
-      <title>Bollywood</title>
-      <link>https://newsstreet.github.io/tags/bollywood/</link>
-      <pubDate>Mon, 07 Nov 2022 07:12:23 +0000</pubDate>
+      <title>राज्य,तेलंगाना</title>
+      <link>https://newsstreet.github.io/tags/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%A4%E0%A5%87%E0%A4%B2%E0%A4%82%E0%A4%97%E0%A4%BE%E0%A4%A8%E0%A4%BE/</link>
+      <pubDate>Mon, 07 Nov 2022 07:11:53 +0000</pubDate>
       
-      <guid>https://newsstreet.github.io/tags/bollywood/</guid>
+      <guid>https://newsstreet.github.io/tags/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%A4%E0%A5%87%E0%A4%B2%E0%A4%82%E0%A4%97%E0%A4%BE%E0%A4%A8%E0%A4%BE/</guid>
       <description></description>
     </item>
     
@@ -1165,15 +1480,6 @@
       <pubDate>Mon, 07 Nov 2022 05:00:55 +0000</pubDate>
       
       <guid>https://newsstreet.github.io/tags/%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%AB%E0%A4%BC/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Business</title>
-      <link>https://newsstreet.github.io/tags/business/</link>
-      <pubDate>Mon, 07 Nov 2022 05:00:40 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/business/</guid>
       <description></description>
     </item>
     
@@ -1219,15 +1525,6 @@
       <pubDate>Mon, 07 Nov 2022 04:44:37 +0000</pubDate>
       
       <guid>https://newsstreet.github.io/tags/tennis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Topnews</title>
-      <link>https://newsstreet.github.io/tags/topnews/</link>
-      <pubDate>Mon, 07 Nov 2022 04:36:10 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/topnews/</guid>
       <description></description>
     </item>
     
@@ -2231,15 +2528,6 @@
     </item>
     
     <item>
-      <title>Fit</title>
-      <link>https://newsstreet.github.io/tags/fit/</link>
-      <pubDate>Thu, 03 Nov 2022 02:40:25 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/fit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>FIFA 23 World Cup content</title>
       <link>https://newsstreet.github.io/tags/fifa-23-world-cup-content/</link>
       <pubDate>Thu, 03 Nov 2022 02:38:48 +0000</pubDate>
@@ -2528,15 +2816,6 @@
     </item>
     
     <item>
-      <title>Sport</title>
-      <link>https://newsstreet.github.io/tags/sport/</link>
-      <pubDate>Wed, 02 Nov 2022 16:14:26 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/sport/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>World Rugby</title>
       <link>https://newsstreet.github.io/tags/world-rugby/</link>
       <pubDate>Wed, 02 Nov 2022 16:14:26 +0000</pubDate>
@@ -2695,15 +2974,6 @@
       <pubDate>Tue, 01 Nov 2022 17:30:36 +0000</pubDate>
       
       <guid>https://newsstreet.github.io/tags/personal-finance-career-education/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cricket News</title>
-      <link>https://newsstreet.github.io/tags/cricket-news/</link>
-      <pubDate>Tue, 01 Nov 2022 17:09:47 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/cricket-news/</guid>
       <description></description>
     </item>
     
@@ -3356,6 +3626,15 @@
     </item>
     
     <item>
+      <title>LIFESTYLE</title>
+      <link>https://newsstreet.github.io/tags/lifestyle/</link>
+      <pubDate>Mon, 31 Oct 2022 05:20:31 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/lifestyle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Arts &amp; Entertainment</title>
       <link>https://newsstreet.github.io/tags/arts-entertainment/</link>
       <pubDate>Mon, 31 Oct 2022 05:19:06 +0000</pubDate>
@@ -3887,6 +4166,15 @@
     </item>
     
     <item>
+      <title>Photo Gallery</title>
+      <link>https://newsstreet.github.io/tags/photo-gallery/</link>
+      <pubDate>Sun, 30 Oct 2022 07:02:05 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/photo-gallery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Poco X4 Pro 5G</title>
       <link>https://newsstreet.github.io/tags/poco-x4-pro-5g/</link>
       <pubDate>Sun, 30 Oct 2022 07:02:05 +0000</pubDate>
@@ -4117,6 +4405,15 @@
       <pubDate>Sun, 30 Oct 2022 03:12:07 +0000</pubDate>
       
       <guid>https://newsstreet.github.io/tags/anime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>व्यापार</title>
+      <link>https://newsstreet.github.io/tags/%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AA%E0%A4%BE%E0%A4%B0/</link>
+      <pubDate>Sun, 30 Oct 2022 03:11:01 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/tags/%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AA%E0%A4%BE%E0%A4%B0/</guid>
       <description></description>
     </item>
     
@@ -4396,15 +4693,6 @@
       <pubDate>Fri, 28 Oct 2022 16:32:28 +0000</pubDate>
       
       <guid>https://newsstreet.github.io/tags/social/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Press release</title>
-      <link>https://newsstreet.github.io/tags/press-release/</link>
-      <pubDate>Fri, 28 Oct 2022 16:30:09 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/press-release/</guid>
       <description></description>
     </item>
     
@@ -4999,15 +5287,6 @@
       <pubDate>Fri, 28 Oct 2022 00:25:19 +0000</pubDate>
       
       <guid>https://newsstreet.github.io/tags/realtimes-news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>State</title>
-      <link>https://newsstreet.github.io/tags/state/</link>
-      <pubDate>Fri, 28 Oct 2022 00:25:19 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/tags/state/</guid>
       <description></description>
     </item>
     
