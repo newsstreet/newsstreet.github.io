@@ -6,22 +6,31 @@
     <description>Recent content in Categories on NewsStreet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Nov 2022 08:32:12 +0000</lastBuildDate><atom:link href="https://newsstreet.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Nov 2022 16:40:39 +0000</lastBuildDate><atom:link href="https://newsstreet.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>entertainment</title>
-      <link>https://newsstreet.github.io/categories/entertainment/</link>
-      <pubDate>Tue, 15 Nov 2022 08:32:12 +0000</pubDate>
+      <title>top</title>
+      <link>https://newsstreet.github.io/categories/top/</link>
+      <pubDate>Tue, 15 Nov 2022 16:40:39 +0000</pubDate>
       
-      <guid>https://newsstreet.github.io/categories/entertainment/</guid>
+      <guid>https://newsstreet.github.io/categories/top/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>top</title>
-      <link>https://newsstreet.github.io/categories/top/</link>
-      <pubDate>Tue, 15 Nov 2022 08:31:22 +0000</pubDate>
+      <title>sports</title>
+      <link>https://newsstreet.github.io/categories/sports/</link>
+      <pubDate>Tue, 15 Nov 2022 16:40:02 +0000</pubDate>
       
-      <guid>https://newsstreet.github.io/categories/top/</guid>
+      <guid>https://newsstreet.github.io/categories/sports/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>entertainment</title>
+      <link>https://newsstreet.github.io/categories/entertainment/</link>
+      <pubDate>Tue, 15 Nov 2022 16:39:55 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/categories/entertainment/</guid>
       <description></description>
     </item>
     
@@ -40,15 +49,6 @@
       <pubDate>Tue, 15 Nov 2022 08:26:36 +0000</pubDate>
       
       <guid>https://newsstreet.github.io/categories/world/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sports</title>
-      <link>https://newsstreet.github.io/categories/sports/</link>
-      <pubDate>Tue, 15 Nov 2022 08:25:02 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/categories/sports/</guid>
       <description></description>
     </item>
     
