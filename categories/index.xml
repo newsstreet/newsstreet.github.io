@@ -6,13 +6,31 @@
     <description>Recent content in Categories on NewsStreet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Nov 2022 16:40:39 +0000</lastBuildDate><atom:link href="https://newsstreet.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Nov 2022 07:17:36 +0000</lastBuildDate><atom:link href="https://newsstreet.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>top</title>
       <link>https://newsstreet.github.io/categories/top/</link>
-      <pubDate>Tue, 15 Nov 2022 16:40:39 +0000</pubDate>
+      <pubDate>Wed, 16 Nov 2022 07:17:36 +0000</pubDate>
       
       <guid>https://newsstreet.github.io/categories/top/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>entertainment</title>
+      <link>https://newsstreet.github.io/categories/entertainment/</link>
+      <pubDate>Wed, 16 Nov 2022 07:16:57 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/categories/entertainment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>world</title>
+      <link>https://newsstreet.github.io/categories/world/</link>
+      <pubDate>Tue, 15 Nov 2022 16:43:32 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/categories/world/</guid>
       <description></description>
     </item>
     
@@ -26,29 +44,11 @@
     </item>
     
     <item>
-      <title>entertainment</title>
-      <link>https://newsstreet.github.io/categories/entertainment/</link>
-      <pubDate>Tue, 15 Nov 2022 16:39:55 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/categories/entertainment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>technology</title>
       <link>https://newsstreet.github.io/categories/technology/</link>
       <pubDate>Tue, 15 Nov 2022 08:27:53 +0000</pubDate>
       
       <guid>https://newsstreet.github.io/categories/technology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>world</title>
-      <link>https://newsstreet.github.io/categories/world/</link>
-      <pubDate>Tue, 15 Nov 2022 08:26:36 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/categories/world/</guid>
       <description></description>
     </item>
     
