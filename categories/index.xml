@@ -6,22 +6,22 @@
     <description>Recent content in Categories on NewsStreet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Nov 2022 06:57:21 +0000</lastBuildDate><atom:link href="https://newsstreet.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Nov 2022 02:45:46 +0000</lastBuildDate><atom:link href="https://newsstreet.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>top</title>
       <link>https://newsstreet.github.io/categories/top/</link>
-      <pubDate>Tue, 29 Nov 2022 06:57:21 +0000</pubDate>
+      <pubDate>Wed, 30 Nov 2022 02:45:46 +0000</pubDate>
       
       <guid>https://newsstreet.github.io/categories/top/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>sports</title>
-      <link>https://newsstreet.github.io/categories/sports/</link>
-      <pubDate>Tue, 29 Nov 2022 06:57:18 +0000</pubDate>
+      <title>technology</title>
+      <link>https://newsstreet.github.io/categories/technology/</link>
+      <pubDate>Wed, 30 Nov 2022 02:37:16 +0000</pubDate>
       
-      <guid>https://newsstreet.github.io/categories/sports/</guid>
+      <guid>https://newsstreet.github.io/categories/technology/</guid>
       <description></description>
     </item>
     
@@ -62,11 +62,11 @@
     </item>
     
     <item>
-      <title>technology</title>
-      <link>https://newsstreet.github.io/categories/technology/</link>
-      <pubDate>Mon, 28 Nov 2022 04:32:36 +0000</pubDate>
+      <title>sports</title>
+      <link>https://newsstreet.github.io/categories/sports/</link>
+      <pubDate>Mon, 28 Nov 2022 04:30:34 +0000</pubDate>
       
-      <guid>https://newsstreet.github.io/categories/technology/</guid>
+      <guid>https://newsstreet.github.io/categories/sports/</guid>
       <description></description>
     </item>
     
