@@ -28,9 +28,18 @@
     <item>
       <title>entertainment</title>
       <link>https://newsstreet.github.io/categories/entertainment/</link>
-      <pubDate>Mon, 28 Nov 2022 04:41:48 +0000</pubDate>
+      <pubDate>Wed, 30 Nov 2022 02:33:28 +0000</pubDate>
       
       <guid>https://newsstreet.github.io/categories/entertainment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sports</title>
+      <link>https://newsstreet.github.io/categories/sports/</link>
+      <pubDate>Wed, 30 Nov 2022 02:33:14 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/categories/sports/</guid>
       <description></description>
     </item>
     
@@ -58,15 +67,6 @@
       <pubDate>Mon, 28 Nov 2022 04:33:36 +0000</pubDate>
       
       <guid>https://newsstreet.github.io/categories/politics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sports</title>
-      <link>https://newsstreet.github.io/categories/sports/</link>
-      <pubDate>Mon, 28 Nov 2022 04:30:34 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/categories/sports/</guid>
       <description></description>
     </item>
     
