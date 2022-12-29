@@ -6,31 +6,58 @@
     <description>Recent content in Categories on NewsStreet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Dec 2022 03:42:26 +0000</lastBuildDate><atom:link href="https://newsstreet.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Dec 2022 06:03:00 +0000</lastBuildDate><atom:link href="https://newsstreet.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>business</title>
+      <link>https://newsstreet.github.io/categories/business/</link>
+      <pubDate>Thu, 29 Dec 2022 06:03:00 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/categories/business/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>sports</title>
       <link>https://newsstreet.github.io/categories/sports/</link>
-      <pubDate>Wed, 28 Dec 2022 03:42:26 +0000</pubDate>
+      <pubDate>Thu, 29 Dec 2022 06:00:13 +0000</pubDate>
       
       <guid>https://newsstreet.github.io/categories/sports/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>top</title>
-      <link>https://newsstreet.github.io/categories/top/</link>
-      <pubDate>Wed, 28 Dec 2022 03:39:42 +0000</pubDate>
+      <title>world</title>
+      <link>https://newsstreet.github.io/categories/world/</link>
+      <pubDate>Thu, 29 Dec 2022 05:46:11 +0000</pubDate>
       
-      <guid>https://newsstreet.github.io/categories/top/</guid>
+      <guid>https://newsstreet.github.io/categories/world/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>business</title>
-      <link>https://newsstreet.github.io/categories/business/</link>
-      <pubDate>Wed, 28 Dec 2022 03:32:37 +0000</pubDate>
+      <title>technology</title>
+      <link>https://newsstreet.github.io/categories/technology/</link>
+      <pubDate>Thu, 29 Dec 2022 05:42:46 +0000</pubDate>
       
-      <guid>https://newsstreet.github.io/categories/business/</guid>
+      <guid>https://newsstreet.github.io/categories/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>entertainment</title>
+      <link>https://newsstreet.github.io/categories/entertainment/</link>
+      <pubDate>Thu, 29 Dec 2022 05:39:43 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/categories/entertainment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>top</title>
+      <link>https://newsstreet.github.io/categories/top/</link>
+      <pubDate>Wed, 28 Dec 2022 04:44:30 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/categories/top/</guid>
       <description></description>
     </item>
     
@@ -44,38 +71,11 @@
     </item>
     
     <item>
-      <title>technology</title>
-      <link>https://newsstreet.github.io/categories/technology/</link>
-      <pubDate>Tue, 27 Dec 2022 05:10:36 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/categories/technology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>health</title>
       <link>https://newsstreet.github.io/categories/health/</link>
-      <pubDate>Mon, 26 Dec 2022 07:40:08 +0000</pubDate>
+      <pubDate>Wed, 28 Dec 2022 02:35:39 +0000</pubDate>
       
       <guid>https://newsstreet.github.io/categories/health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>entertainment</title>
-      <link>https://newsstreet.github.io/categories/entertainment/</link>
-      <pubDate>Fri, 23 Dec 2022 05:38:37 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/categories/entertainment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>world</title>
-      <link>https://newsstreet.github.io/categories/world/</link>
-      <pubDate>Fri, 23 Dec 2022 05:34:16 +0000</pubDate>
-      
-      <guid>https://newsstreet.github.io/categories/world/</guid>
       <description></description>
     </item>
     
