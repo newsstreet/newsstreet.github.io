@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iOS on NewsStreet</title>
+    <link>https://newsstreet.github.io/tags/ios/</link>
+    <description>Recent content in iOS on NewsStreet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Jan 2023 05:30:13 +0000</lastBuildDate><atom:link href="https://newsstreet.github.io/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Twitter’s advanced search filters for iOS coming soon</title>
+      <link>https://newsstreet.github.io/news/twitters-advanced-search-filters-for-ios-coming-soon/</link>
+      <pubDate>Thu, 05 Jan 2023 05:30:13 +0000</pubDate>
+      
+      <guid>https://newsstreet.github.io/news/twitters-advanced-search-filters-for-ios-coming-soon/</guid>
+      <description>Twitter’s advanced search filters for iOS coming soon According to social media analyst Matt Navarra, Twitter&#39;s advanced search filters for smartphone users are &#34;</description>
+    </item>
+    
+  </channel>
+</rss>
